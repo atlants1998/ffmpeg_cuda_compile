@@ -20,7 +20,6 @@ A comprehensive guide to compiling FFmpeg with NVIDIA GPU acceleration (NVENC, N
 - [FFmpeg Compilation](#-ffmpeg-compilation)
 - [Verification](#-verification)
 - [Troubleshooting](#-troubleshooting)
-- [Contributing](#-contributing)
 - [License](#-license)
 
 ## 🖥️ System Requirements
@@ -372,18 +371,6 @@ For a lighter build with only NVIDIA features:
 - [NVIDIA Video Codec SDK](https://developer.nvidia.com/nvidia-video-codec-sdk)
 - [CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html)
 - [Hardware Acceleration Guide](https://trac.ffmpeg.org/wiki/HWAccelIntro)
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit issues, fork the repository, and create pull requests for any improvements.
-
-### How to Contribute
-
-1.  Fork the project
-2.  Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
 
 ## 📝 Notes
 
